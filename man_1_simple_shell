@@ -36,7 +36,7 @@ Example of command:
 .SH SEE ALSO
 sh, bash, zsh.
 .SH BUGS
-Makes with the PATH.
+Makes with the PATH and spaces.
 .SH AUTHOR
 Kevin Munoz Benitez  https://github.com/Kevinmunoz44.
 Santiago Hinestroza Naranjo https://github.com/SANTIAGOH22.
