@@ -1,0 +1,42 @@
+.\" Manpage for Simple_Shell.
+.TH man Simple Shell "28 APR 2023" "1.0" "Simple Shell man page"
+.SH NAME
+Simple_shell
+.SH SYNOPSIS
+hsh [Command] [-Options] [-File]
+.SH DESCRIPTION
+Shell is a UNIX term for the interactive user interface with an operating system. The shell is the layer of programming that understands
+and executes the commands a user enters. In some systems, the shell is called a command interpreter. A shell usually implies an interface
+with a command syntax
+.SH OPTIONS
+This shell works both on interactive (typing commands on the standard input) or not-interactive mode (giving commands through a pipe).
+.SH COMMANDS
+The following commands are valid:
+.IT
+.B pwd
+- prints the name of the current working directory
+.B ls
+- list the contents of the directory
+.B echo
+- shows a line of text
+.B env
+- display the environment variables and their values
+Example of command:
+.IP
+.br
+.\&
+.RS
+\&$ pwd
+.br
+\&/home/my_directory
+
+\&$ echo "Hello World!"
+.br
+\&Hello World!
+.SH SEE ALSO
+sh, bash, zsh.
+.SH BUGS
+Makes with the PATH.
+.SH AUTHOR
+Kevin Munoz Benitez  https://github.com/Kevinmunoz44.
+Santiago Hinestroza Naranjo https://github.com/SANTIAGOH22.
