@@ -32,6 +32,7 @@ hsh main.c shell.c test_ls_2
 hsh main.c shell.c test_ls_2
 $
 ~~~
+
 ## How to work a shell
 The term shell is used to refer to those programs that provide a user interface to access the services of the operating system. These can be graphics or plain text, depending on the type of interface they use. Shells are designed to facilitate the way in which the various programs available on the computer are invoked or executed.
 
