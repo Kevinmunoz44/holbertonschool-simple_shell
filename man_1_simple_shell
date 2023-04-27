@@ -29,7 +29,7 @@ Example of command:
 \&$ pwd
 .br
 \&/home/my_directory
-
+.br
 \&$ echo "Hello World!"
 .br
 \&Hello World!
