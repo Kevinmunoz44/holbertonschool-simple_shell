@@ -3,7 +3,7 @@
 /**
  * prompt - function for print commands of linux
  * @av: parameters
- * @env: parameters
+ * @env: Enviroment variable
  * 
  * Return: 0;
 */
