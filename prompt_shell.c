@@ -2,7 +2,7 @@
 
 /**
  * prompt - function for print commands of linux
- * @av: parameters
+ * @av: parameters not used
  * @env: Enviroment variable
  * 
  * Return: 0;
